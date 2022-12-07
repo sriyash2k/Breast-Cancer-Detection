@@ -1,6 +1,8 @@
 # Breast-Cancer-Detection
+
+<br/>Detection of stage of cancer (benign or malignant) using Machine Learning and Deep Learning technqiues.<br/>
+
 Dataset : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data<br/>
-<br/>Detection of stage of cancer benign or malignant.<br/>
 
 <b>Results</b>
 
